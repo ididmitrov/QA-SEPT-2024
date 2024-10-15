@@ -1,0 +1,7 @@
+git checkout main
+git pull
+git checkout -b"branch-name"
+change something
+git add .
+git commit -m"text"
+git push
